@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '0b1512ccd77e4236a410cc9a34c97535'; // Your client id
 var client_secret = '4ee144e7c0534c32b7a6fbe4b6813308'; // Your secret
-var redirect_uri = 'REDIRECT_URI'; // Your redirect uri
+var redirect_uri = 'https://thibautpicart.github.io/SpotifyPlayerStats/'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
